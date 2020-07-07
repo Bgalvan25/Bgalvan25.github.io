@@ -1,11 +1,11 @@
 # Site settings
 author: Brittney Galvan
-title: 
+title: Brittney's Blog
 header-img: img/home-bg.png
 email: brittney.galvan25@yahoo.com
 copyright_name: Brittney Galvan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Brittney's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Bgalvan25
